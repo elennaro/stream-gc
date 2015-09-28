@@ -1,0 +1,30 @@
+########################
+# misc / editors
+########################
+*~
+*#
+.DS_STORE
+.DS_Store
+.netbeans
+nbproject
+.idea
+.editorconfig
+hooks/
+platforms/
+plugins/
+nbactions.xml
+nb-configuration.xml
+coverage
+.grunt
+bower_components/
+*.iml
+
+########################
+# node
+########################
+node_modules
+
+########################
+# other
+########################
+*.heapsnapshot
